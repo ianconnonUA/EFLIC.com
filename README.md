@@ -7,17 +7,17 @@
 ## 🖼️ Vista previa
 
 ### Página principal (index.html)
-![Página principal](./source/preview-home.png)
+![Página principal](source/preview-home.png)
 
 
 ### Página de película (index.html)
-![Página de película](./source/preview-movie.png)
+![Página de película](source/preview-movie.png)
 
 ### Página de Series (index.html)
-![Página de película](./source/preview-serie.png)
+![Página de película](source/preview-serie.png)
 
 ### Página bonus (movie.html)
-![Página de película](./source/preview-bonus.png)
+![Página de película](source/preview-bonus.png)
 
 ---
 
